@@ -1,0 +1,17 @@
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\bin\Debug\netcoreapp2.1\FilterModuleTest.deps.json
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\bin\Debug\netcoreapp2.1\FilterModuleTest.runtimeconfig.json
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\bin\Debug\netcoreapp2.1\FilterModuleTest.runtimeconfig.dev.json
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\bin\Debug\netcoreapp2.1\FilterModuleTest.dll
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\bin\Debug\netcoreapp2.1\FilterModuleTest.pdb
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\bin\Debug\netcoreapp2.1\FilterModule.dll
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\bin\Debug\netcoreapp2.1\FilterModule.pdb
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\obj\Debug\netcoreapp2.1\FilterModuleTest.csprojAssemblyReference.cache
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\obj\Debug\netcoreapp2.1\FilterModuleTest.csproj.CoreCompileInputs.cache
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\obj\Debug\netcoreapp2.1\FilterModuleTest.AssemblyInfoInputs.cache
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\obj\Debug\netcoreapp2.1\FilterModuleTest.AssemblyInfo.cs
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\obj\Debug\netcoreapp2.1\FilterModuleTest.csproj.CopyComplete
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\obj\Debug\netcoreapp2.1\FilterModuleTest.dll
+C:\Users\shyshu\Desktop\IOT\EdgeSolution2\tests\FilterModuleTest\obj\Debug\netcoreapp2.1\FilterModuleTest.pdb
